@@ -1,2 +1,2 @@
-# Teerminal-Command-Demo-Godot-Engine
+# Teerminal-Command-Example
 A simple terminal simulator made in Godot Engine
